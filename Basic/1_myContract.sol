@@ -2,11 +2,10 @@
 
 pragma solidity ^0.5.11;
 
-//import 
+//import statement 
 
 contract myContract{
 
-    //basic structure of smart contract 
     //fixed size variable
     //variable size variables
     //user defined variables
