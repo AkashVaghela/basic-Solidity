@@ -1,3 +1,3 @@
 # Basic_Solidity
 
-code samples of basic solidity concepts.
+Code snippets of basic solidity concepts.
